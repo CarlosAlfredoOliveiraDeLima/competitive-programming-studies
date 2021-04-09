@@ -14,3 +14,7 @@ elif y == 0 and x != 0:
     print('Eixo X')
 else:
     print('Origem')
+
+
+
+
